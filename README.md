@@ -1,1 +1,0 @@
-# pythonProject3_FastAPI_SQLalchemy_Async
